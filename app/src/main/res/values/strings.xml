@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BottleDispenser</string>
+    <string name="add_money">Add money</string>
+    <string name="buy_bottle">Buy bottle</string>
+    <string name="take_money_out">Take money out</string>
+</resources>
